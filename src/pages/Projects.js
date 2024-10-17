@@ -5,45 +5,48 @@ const projects = [
   {
     id: 1,
     name: 'Razorpay Clone',
-    image: '/path/to/razorpay-image.png', // Replace with actual image path
+    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
     github: 'https://github.com/username/razorpay-clone', // Replace with actual GitHub link
     live: 'https://live-link.com/razorpay-clone', // Replace with actual Live link
   },
   {
     id: 2,
     name: 'E-commerce Website',
-    image: '/path/to/ecommerce-image.png',
+    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Google image link for E-commerce
     github: 'https://github.com/username/ecommerce',
     live: 'https://live-link.com/ecommerce',
   },
   {
     id: 3,
     name: 'React Product Catalog',
-    image: '/path/to/product-catalog-image.png',
+    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
     github: 'https://github.com/username/product-catalog',
     live: 'https://live-link.com/product-catalog',
   },
   {
-    id: 3,
+    id: 4,
     name: 'React Product Catalog',
-    image: '/path/to/product-catalog-image.png',
+    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
     github: 'https://github.com/username/product-catalog',
     live: 'https://live-link.com/product-catalog',
   },
   {
-    id: 3,
+    id: 5,
     name: 'React Product Catalog',
-    image: '/path/to/product-catalog-image.png',
+    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
     github: 'https://github.com/username/product-catalog',
     live: 'https://live-link.com/product-catalog',
   },
   {
-    id: 3,
+    id: 6,
     name: 'React Product Catalog',
-    image: '/path/to/product-catalog-image.png',
+    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
     github: 'https://github.com/username/product-catalog',
     live: 'https://live-link.com/product-catalog',
   },
+  
+
+
   // Add more projects here as needed
 ];
 

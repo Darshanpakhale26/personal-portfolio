@@ -13,13 +13,13 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="bg-gray-800 text-white fixed w-full top-0 z-10 shadow-lg">
+    <nav className="bg-gradient-to-r from-black to-darkbrown py-8 text-white fixed w-full top-0 z-10 shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
         {/* Portfolio Name with React Icon */}
         <div className="flex items-center space-x-2">
           <FaReact className="text-3xl text-blue-500 animate-spin-slow" />  {/* React icon */}
           <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 via-pink-500 to-purple-500">
-            Darshan's Portfolio
+          Portfolio
           </h1>
         </div>
 
