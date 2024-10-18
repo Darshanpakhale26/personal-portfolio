@@ -31,6 +31,7 @@ module.exports = {
         fadeInRight: 'fadeInRight 1s ease-in-out',  // Fade-in from the right
         'spin-slow': 'spin 3s linear infinite',  // Slow spin for the React icon
       },
+      
     },
   },
   plugins: [],

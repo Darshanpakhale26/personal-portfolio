@@ -5,43 +5,43 @@ const projects = [
   {
     id: 1,
     name: 'Razorpay Clone',
-    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
-    github: 'https://github.com/username/razorpay-clone', // Replace with actual GitHub link
+    image: 'https://wptravel.io/wp-content/uploads/2023/12/Razorpay.png', // Replace with actual image link
+    github: 'https://github.com/Darshanpakhale26/Razorpay', // Replace with actual GitHub link
     live: 'https://live-link.com/razorpay-clone', // Replace with actual Live link
   },
   {
     id: 2,
     name: 'E-commerce Website',
     image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Google image link for E-commerce
-    github: 'https://github.com/username/ecommerce',
+    github: 'https://github.com/Darshanpakhale26/ecommerce-web',
     live: 'https://live-link.com/ecommerce',
   },
   {
     id: 3,
     name: 'React Product Catalog',
-    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
-    github: 'https://github.com/username/product-catalog',
+    image: 'https://therichpost.com/wp-content/uploads/2021/02/Reactjs-Ecommerce-Template-with-Json-API-Data.png', // Replace with actual image link
+    github: 'https://github.com/Darshanpakhale26/product-catalog',
     live: 'https://live-link.com/product-catalog',
   },
   {
     id: 4,
-    name: 'React Product Catalog',
-    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
-    github: 'https://github.com/username/product-catalog',
+    name: 'Food Delivery App',
+    image: 'https://themindstudios.com/blog/content/images/2022/03/UX-Design.jpg', // Replace with actual image link
+    github: 'https://github.com/Darshanpakhale26/Food-Delivery-App',
     live: 'https://live-link.com/product-catalog',
   },
   {
     id: 5,
-    name: 'React Product Catalog',
-    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
-    github: 'https://github.com/username/product-catalog',
+    name: 'BMI Calculator',
+    image: 'https://i.ytimg.com/vi/a4qFLUiAEDY/maxresdefault.jpg', // Replace with actual image link
+    github: 'https://github.com/Darshanpakhale26/bmi-calculator',
     live: 'https://live-link.com/product-catalog',
   },
   {
     id: 6,
-    name: 'React Product Catalog',
-    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Replace with actual image link
-    github: 'https://github.com/username/product-catalog',
+    name:  'Personal Portfolio',
+    image: 'https://static.vecteezy.com/system/resources/previews/016/208/610/non_2x/personal-portfolio-with-profile-data-resume-or-self-improvement-to-attract-clients-and-employers-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg', // Replace with actual image link
+    github: 'https://github.com/Darshanpakhale26/react-tailwind-website',
     live: 'https://live-link.com/product-catalog',
   },
   

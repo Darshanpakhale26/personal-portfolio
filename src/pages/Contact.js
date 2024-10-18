@@ -8,7 +8,9 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_USER_ID')
+    emailjs.sendForm("service_ulxqju8", 'template_bi0syc6', form.current, 'L-ibtMIu30XnCJHvC')  // Where to find the User ID? Check the next step! 
+    // The User ID is the one you copied from the EmailJS Dashboard earlier in Step 3 (Refer to the image in Step 3)
+
       .then((result) => {
         console.log(result.text);
         setSent(true);  // Set flag to true if successful
