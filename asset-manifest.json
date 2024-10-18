@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Darshanpakhale26/personal-portfolio/static/css/main.382d01a7.css",
+    "main.js": "/Darshanpakhale26/personal-portfolio/static/js/main.3bb7f045.js",
+    "index.html": "/Darshanpakhale26/personal-portfolio/index.html",
+    "main.382d01a7.css.map": "/Darshanpakhale26/personal-portfolio/static/css/main.382d01a7.css.map",
+    "main.3bb7f045.js.map": "/Darshanpakhale26/personal-portfolio/static/js/main.3bb7f045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382d01a7.css",
+    "static/js/main.3bb7f045.js"
+  ]
+}
