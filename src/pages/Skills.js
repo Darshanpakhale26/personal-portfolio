@@ -4,9 +4,9 @@ import { SiMongodb, SiExpress, SiTailwindcss, SiMysql, SiCplusplus  } from 'reac
 
 const Skills = () => {
   return (
-    <section id='skills' className="bg-gradient-to-r from-gray-800 to-black py-12">
+    <section id='skills' className="bg-gradient-to-r from-gray-800 to-black py-12 animate-fadeInRight">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl sm:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-pink-500 to-purple-500  animate-fadeInRight text-center mt-12 mb-12">My Skills</h2>
+        <h2 className="text-4xl sm:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-pink-500 to-purple-500 text-center mt-12 mb-12">My Skills</h2>
 
         {/* Frontend Skills */}
         <div className="mb-8">

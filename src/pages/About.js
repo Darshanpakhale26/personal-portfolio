@@ -9,7 +9,7 @@ import {
   FaGg,
   FaHackerrank,
   FaTwitter,
-} from "react-icons/fa"; // Import icons from FontAwesome
+} from "react-icons/fa"; 
 
 const About = () => {
   return (
@@ -105,7 +105,7 @@ const About = () => {
             {/* Social Links */}
             <div className="flex space-x-6">
               <a
-                href="https://linkedin.com/in/darshan-pakhale/"
+                href="https://www.linkedin.com/in/darshan261002/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-4xl text-blue-500 hover:text-white transition duration-300 transform hover:scale-125"
@@ -114,7 +114,7 @@ const About = () => {
                 <FaLinkedin />
               </a>
               <a
-                href="https://github.com/darshanpakhale"
+                href="https://github.com/Darshanpakhale26"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-4xl text-gray-500 hover:text-white transition duration-300 transform hover:scale-125"
@@ -123,7 +123,7 @@ const About = () => {
                 <FaGithub />
               </a>
               <a
-                href="https://www.geeksforgeeks.org"
+                href="https://www.geeksforgeeks.org/user/darshanvpakhale26/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-4xl text-green-500 hover:text-white transition duration-300 transform hover:scale-125"
@@ -132,7 +132,7 @@ const About = () => {
                 <FaGg />
               </a>
               <a
-                href="https://www.hackerrank.com"
+                href="https://www.hackerrank.com/profile/darshanvp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-4xl text-green-500 hover:text-white transition duration-300 transform hover:scale-125"

@@ -1,48 +1,48 @@
 import React from 'react';
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'; // Import FontAwesome icons
+import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'; 
 
 const projects = [
   {
     id: 1,
     name: 'Razorpay Clone',
-    image: 'https://wptravel.io/wp-content/uploads/2023/12/Razorpay.png', // Replace with actual image link
-    github: 'https://github.com/Darshanpakhale26/Razorpay', // Replace with actual GitHub link
-    live: 'https://live-link.com/razorpay-clone', // Replace with actual Live link
+    image: 'https://wptravel.io/wp-content/uploads/2023/12/Razorpay.png',
+    github: 'https://github.com/Darshanpakhale26/Razorpay', 
+    live: 'https://darshanpakhale26.github.io/Razorpay/', 
   },
   {
     id: 2,
     name: 'E-commerce Website',
-    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg', // Google image link for E-commerce
+    image: 'https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg',
     github: 'https://github.com/Darshanpakhale26/ecommerce-web',
-    live: 'https://live-link.com/ecommerce',
+    live: 'https://darshanpakhale26.github.io/ecommerce-web',
   },
   {
     id: 3,
     name: 'React Product Catalog',
-    image: 'https://therichpost.com/wp-content/uploads/2021/02/Reactjs-Ecommerce-Template-with-Json-API-Data.png', // Replace with actual image link
+    image: 'https://therichpost.com/wp-content/uploads/2021/02/Reactjs-Ecommerce-Template-with-Json-API-Data.png',
     github: 'https://github.com/Darshanpakhale26/product-catalog',
-    live: 'https://live-link.com/product-catalog',
+    live: 'https://darshanpakhale26.github.io/product-catalog',
   },
   {
     id: 4,
     name: 'Food Delivery App',
-    image: 'https://themindstudios.com/blog/content/images/2022/03/UX-Design.jpg', // Replace with actual image link
+    image: 'https://themindstudios.com/blog/content/images/2022/03/UX-Design.jpg', 
     github: 'https://github.com/Darshanpakhale26/Food-Delivery-App',
     live: 'https://live-link.com/product-catalog',
   },
   {
     id: 5,
     name: 'BMI Calculator',
-    image: 'https://i.ytimg.com/vi/a4qFLUiAEDY/maxresdefault.jpg', // Replace with actual image link
+    image: 'https://i.ytimg.com/vi/a4qFLUiAEDY/maxresdefault.jpg',
     github: 'https://github.com/Darshanpakhale26/bmi-calculator',
-    live: 'https://live-link.com/product-catalog',
+    live: 'https://darshanpakhale26.github.io/bmi-calculator/',
   },
   {
     id: 6,
     name:  'Personal Portfolio',
-    image: 'https://static.vecteezy.com/system/resources/previews/016/208/610/non_2x/personal-portfolio-with-profile-data-resume-or-self-improvement-to-attract-clients-and-employers-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg', // Replace with actual image link
+    image: 'https://static.vecteezy.com/system/resources/previews/016/208/610/non_2x/personal-portfolio-with-profile-data-resume-or-self-improvement-to-attract-clients-and-employers-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg', 
     github: 'https://github.com/Darshanpakhale26/react-tailwind-website',
-    live: 'https://live-link.com/product-catalog',
+    live: 'https://darshanpakhale26.github.io/personal-portfolio/',
   },
   
 

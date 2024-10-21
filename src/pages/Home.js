@@ -23,11 +23,6 @@ const Home = () => {
               "Software Developer",
               "MERN Stack Developer",
               "Problem Solver",
-              
-
-
-
-
             ]}
             typeSpeed={50}
             backSpeed={40}

@@ -31,7 +31,7 @@ const Footer = () => {
         {/* Right Section: Social Media Icons */}
         <div className="flex space-x-6 mt-6 md:mt-0">
           <a
-            href="https://www.linkedin.com"
+            href="https://www.linkedin.com/in/darshan261002/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-xl hover:text-blue-600 transition-colors duration-200"
@@ -39,7 +39,7 @@ const Footer = () => {
             <FaLinkedin className="hover:shadow-lg transition-shadow duration-200" />
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/Darshanpakhale26"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-xl hover:text-gray-600 transition-colors duration-200"
@@ -55,7 +55,7 @@ const Footer = () => {
             <FaTwitter className="hover:shadow-lg transition-shadow duration-200" />
           </a>
           <a
-            href="https://www.instagram.com"
+            href="https://www.instagram.com/darshan26_10/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-xl hover:text-pink-500 transition-colors duration-200"
@@ -63,7 +63,7 @@ const Footer = () => {
             <FaInstagram className="hover:shadow-lg transition-shadow duration-200" />
           </a>
           <a
-            href="https://www.facebook.com"
+            href="https://www.facebook.com/darshan.pakhale.1/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-xl hover:text-blue-700 transition-colors duration-200"
